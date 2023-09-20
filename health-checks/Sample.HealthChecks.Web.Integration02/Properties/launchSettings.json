@@ -12,9 +12,8 @@
     "Sample.HealthChecks.Web.Integration02": {
       "commandName": "Project",
       "dotnetRunMessages": true,
-      "launchBrowser": true,
-      "launchUrl": "swagger",
-      "applicationUrl": "https://localhost:7297;http://localhost:5029",
+      "launchBrowser": false,
+      "applicationUrl": "https://localhost:7216",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
