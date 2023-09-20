@@ -1,0 +1,7 @@
+{
+  "Environments": {
+    "Integration01BaseUrl": "https://localhost:7215",
+    "Integration02BaseUrl": "https://localhost:7216",
+    "Integration03BaseUrl": "https://localhost:7217"
+  }
+}
